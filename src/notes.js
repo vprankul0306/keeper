@@ -23,6 +23,12 @@ const notes = [
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software.",
   },
+  {
+    key: 5,
+    title: "Flux and Redux",
+    content:
+      "Q. What is React? A. A library for managing user interfaces. Q. What is React? A. A library for managing user interfaces. Q. What is React? A. A library for managing user interfaces.",
+  },
 ];
 
 export default notes;
